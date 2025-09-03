@@ -1,0 +1,8 @@
+{
+  "name": "Airflow Playground",
+  "build": {
+    "dockerfile": "../Dockerfile"
+  },
+  "forwardPorts": [8080],
+  "postCreateCommand": "airflow db init"
+}
