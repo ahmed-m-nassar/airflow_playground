@@ -1,0 +1,25 @@
+export AIRFLOW__CORE__DAGS_FOLDER=/workspaces/airflow_playground/dags
+airflow standalone
+
+
+
+pip install pandas
+
+
+
+
+
+
+
+
+
+imbo szyf hjmh vrpm 
+
+
+export AIRFLOW__SMTP__SMTP_HOST="smtp.gmail.com"
+export AIRFLOW__SMTP__SMTP_PORT="587"
+export AIRFLOW__SMTP__SMTP_STARTTLS="True"
+export AIRFLOW__SMTP__SMTP_SSL="False"
+export AIRFLOW__SMTP__SMTP_USER="ahmed.danger85@gmail.com"
+export AIRFLOW__SMTP__SMTP_PASSWORD="imboszyfhjmhvrpm"
+export AIRFLOW__SMTP__SMTP_MAIL_FROM="ahmed.danger85@gmail.com"
