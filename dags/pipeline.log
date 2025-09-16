@@ -1,0 +1,6 @@
+2025-09-10 21:37:23,473 - INFO - Pipeline started
+2025-09-10 21:37:23,473 - INFO - Extracting data from https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv
+2025-09-10 21:37:23,947 - INFO - Transforming dataset
+2025-09-10 21:37:23,949 - INFO - Saving transformed data
+2025-09-10 21:37:23,950 - INFO - Data saved at data/cleaned.csv
+2025-09-10 21:37:23,950 - INFO - Pipeline finished in 0.48 seconds
